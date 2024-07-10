@@ -5,6 +5,6 @@ numpy==1.21.0  # Update to a more recent version
 phonemizer==2.2.1
 scipy==1.14.0  # Update to a more recent version
 tensorboard==2.3.0
-torch==1.6.0
+torch==1.11.0 # changed
 torchvision==0.7.0
 Unidecode==1.1.1
