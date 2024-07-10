@@ -1,7 +1,6 @@
 Cython==0.29.21
 librosa==0.8.0
 matplotlib==3.3.1
-numpy==1.21.0  # Update to a more recent version
 phonemizer==2.2.1
 scipy==1.14.0  # Update to a more recent version
 tensorboard==2.3.0
